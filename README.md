@@ -14,5 +14,6 @@ Este projeto é um sistema de cálculo remoto usando Java RMI (Remote Method Inv
 - **Módulo**
 - **Fatorial**
 
+## Resultado
 
-
+![RMI](https://github.com/user-attachments/assets/785a74f7-15a6-4478-ab3d-2828437896ac)
